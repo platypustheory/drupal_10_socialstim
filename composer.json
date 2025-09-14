@@ -63,7 +63,7 @@
     "extra": {
         "patches": {
             "drupal/core": {
-                "Omega8 D10 Aegir3 patch": "https://raw.githubusercontent.com/omega8cc/boa/5.x-dev/aegir/patches/drupal-ten-aegir-01.patch"
+                "Omega8 D10 Aegir3 patch": "https://raw.githubusercontent.com/omega8cc/boa/5.x-dev/aegir/patches/drupal-ten-aegir-core-01.patch"
             }
         },
         "drupal-scaffold": {
